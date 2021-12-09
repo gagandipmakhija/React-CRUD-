@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-CRUD/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/React-CRUD/static/js/main.6c52fd05.chunk.js",
+    "main.js.map": "/React-CRUD/static/js/main.6c52fd05.chunk.js.map",
+    "runtime-main.js": "/React-CRUD/static/js/runtime-main.478254ba.js",
+    "runtime-main.js.map": "/React-CRUD/static/js/runtime-main.478254ba.js.map",
+    "static/js/2.05253f6b.chunk.js": "/React-CRUD/static/js/2.05253f6b.chunk.js",
+    "static/js/2.05253f6b.chunk.js.map": "/React-CRUD/static/js/2.05253f6b.chunk.js.map",
+    "static/js/3.a97d217f.chunk.js": "/React-CRUD/static/js/3.a97d217f.chunk.js",
+    "static/js/3.a97d217f.chunk.js.map": "/React-CRUD/static/js/3.a97d217f.chunk.js.map",
+    "index.html": "/React-CRUD/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/React-CRUD/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.05253f6b.chunk.js.LICENSE.txt": "/React-CRUD/static/js/2.05253f6b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.478254ba.js",
+    "static/js/2.05253f6b.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.6c52fd05.chunk.js"
+  ]
+}
